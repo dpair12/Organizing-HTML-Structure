@@ -1,9 +1,10 @@
 ##  Organizing-HTML-Structure
 This repository is for the Challenge 1 assignment.
+
 ## Project Description
 This project is a representation of what I learned so far when it comes to organizing HTML documents. Using the starter code that was provided for this Challenge assignment, I performed the following functions:
 
-Organized HTML document using semantic HTML elements (removed all mentions of<div>)
+Organized HTML document using semantic HTML elements (removed all mentions of div)
 Organized HTML document to follow layout of webpage and ensured heading attributes fall in sequential order 
 Updated links within navigation menu to ensure that are functioning properly
 Ensured alt text was provided for all images
@@ -17,7 +18,11 @@ Created a Descriptive Readme
 Created Multiple Commits with Descriptions of Changes I Made
 
 ## Screenshot of Deployed Application
-A screenshot of the deployed application can be found in the following directory: .assets/images/screenshots/deployed-app.png.
+Three screenshots of the deployed application can be found in the following directory: [/.assets/images/screenshots/]
+
+## Link to Live Application
+
+You can view the live application on GitHub Pages by using the following link: (https://dpair12.github.io/Organizing-HTML-Structure/)
 
 
 ## Guidelines for Uses
